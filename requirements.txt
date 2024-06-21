@@ -1,0 +1,13 @@
+pypdf
+chromadb
+transformers 
+einops 
+accelerate 
+langchain 
+bitsandbytes
+sentence_transformers
+llama_index
+llama-index-embeddings-langchain
+llama-index-llms-huggingface
+-U langchain-community
+llama-index-vector-stores-chroma
